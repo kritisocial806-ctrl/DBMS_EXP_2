@@ -1,9 +1,9 @@
-# DBMS_EXP_2
+# DBMS_PRAC_QUES_2
 # 📝 Practice Set 02 - HOMEWORK Q1
 
 > **Database:** KritiDB
 > **Table:** Student
-
+ 
 ---
 
 ## 📋 Objective
